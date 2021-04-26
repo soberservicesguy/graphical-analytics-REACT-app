@@ -1,3 +1,10 @@
-# graphical_analytics_REACT_app
+# graphical_analytics_app
 
-This is  React app which shows data in terms of graphs
+**Live App:**
+
+https://graphs-app-dot-portfolio-apps-311617.uc.r.appspot.com
+
+
+**Project Details:**
+
+This is just a React frontend app, which shows data in terms of graphs

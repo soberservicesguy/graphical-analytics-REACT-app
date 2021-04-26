@@ -1,5 +1,5 @@
 runtime: nodejs14 # or another supported version
-service: graphs-app
+service: graphical-app
 instance_class: F2
 
 handlers:

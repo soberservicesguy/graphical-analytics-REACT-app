@@ -2,7 +2,7 @@
 
 **Live App:**
 
-https://graphs-app-dot-portfolio-apps-311617.uc.r.appspot.com
+https://graphical-app-dot-portfolio-apps-311617.uc.r.appspot.com
 
 
 **Project Details:**

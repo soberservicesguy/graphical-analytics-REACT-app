@@ -1,7 +1,8 @@
-./node_modules
-./App/backend/node_modules
-./App/frontend/node_modules
-./App/frontend/build
+./backend/build/*
+./frontend/build/*
 
-./Containers_Version/image_sources/*/build
-./Kubernetes_Version/container_sources/*/build
+node_modules
+./backend/node_modules
+./frontend/node_modules
+./backend/keys/*
+./backend/assets/uploads/*
